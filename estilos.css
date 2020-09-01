@@ -1,0 +1,30 @@
+    html    {
+ 	    background-image: url(img/fundo.jpg);
+  	    background-repeat: no-repeat;
+  	    background-size: cover;
+  	    min-height: 100%;}
+	body{
+  	margin: 0 auto;
+  	background-color: #9BDC91;
+ 	 margin-left: 15%;
+ 	 margin-right: 15%;
+  	text-align: left;
+  	font-family: arial, serif;
+ 	 border-left: 13px double #071914;
+  	border-right: 13px double #071914;
+  	padding: 10px;
+	}
+
+h1{
+  text-align: center;}
+            
+    #imgpos {
+            float: right;
+            }
+    #imgpos1 {
+            float: right;
+            }
+
+    p{
+      font-family:Helvetica, Arial;
+     }
